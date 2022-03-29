@@ -1,0 +1,13 @@
+{
+  "editor.renderWhitespace": "all",
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+  "editor.minimap.enabled": false,
+  "prettier.arrowParens": "always",
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 125,
+  "prettier.useEditorConfig": false,
+  "typescriptHero.imports.multiLineWrapThreshold": 125,
+  "typescriptHero.imports.organizeOnSave": true
+}
